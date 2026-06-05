@@ -4,6 +4,12 @@
 
 OpenImage Viewer is a community-maintained fork inspired by the original BetterViewer project. It preserves the existing UI/UX and toolset while adding a Manifest V3-compatible hybrid detection architecture that restores automatic image-tab opening in modern Chromium browsers.
 
+<p align="center">    
+   <a href=""><img src="./docs/download-chrome.svg">Coming Soon</a>
+   <a href="https://microsoftedge.microsoft.com/addons/detail/openimage-viewer/mljgllcfchmdmmgemmjghhdkbnbmmjgb?hl=en-GB"><img src="./docs/edge.svg"></a>
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/openimage-viewer/"><img src="./docs/firefox.svg"></a>
+</p>
+
 ## Why this fork exists
 
 When Chromium moved from MV2 to MV3, automatic behavior for **“Open image in new tab”** became unreliable in many image viewer extensions.
