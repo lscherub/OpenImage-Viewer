@@ -151,4 +151,4 @@ chrome.runtime.onMessage.addListener(async (request, sender, sendResponse) => {
   }
 });
 
-chrome.runtime.setUninstallURL("https://forms.gle/CNhnnirVXK8tRNFX6");
+chrome.runtime.setUninstallURL("https://forms.gle/kf5rLcvEgp7n3aMs6");
